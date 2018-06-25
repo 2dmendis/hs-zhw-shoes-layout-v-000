@@ -29,6 +29,9 @@
  
   width: 32%;
 }
+.section .col-2{
+  width: 66%;
+}
 .col-2 {
   float: left;
 
